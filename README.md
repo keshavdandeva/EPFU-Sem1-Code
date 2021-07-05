@@ -1,2 +1,2 @@
 # Programming Fundamentals
-Code in C language for EPFU subject Labs, Tests and Practice 
+EPFU Subject at WUT: Code in C language for Labs, Tests and Practice 
